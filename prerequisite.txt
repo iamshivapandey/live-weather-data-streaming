@@ -1,0 +1,8 @@
+python
+AWS account for S3 bucket
+hadoop environment setup
+hive setup
+mysql database
+sqoop setup
+kafka environment setup
+pyspark setup with hadoop
