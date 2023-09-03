@@ -1,5 +1,6 @@
 python
 AWS account for S3 bucket
+Rapid Api account for free api
 hadoop environment setup
 hive setup
 mysql database
